@@ -1,0 +1,12 @@
+{
+  "menu":{
+     "file": "File",
+    "value": "File",
+    "popup":{ "menuitem": {
+      "New": "CreateNewDoc",
+      "Open": "OpenDoc",
+      "Close": "CloseDoc"
+     }
+    }
+  }
+}
